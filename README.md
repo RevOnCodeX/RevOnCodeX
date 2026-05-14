@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=800&lines=hey%2C+i'm+aakshaj+!;ai+%26+robotics+builder;medical+tech+enthusiast;future+neurotechnology+researcher;cs+student+from+india;building+intelligent+systems" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-aakshaj.me-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://aakshaj.me)
-
 ![](https://komarev.com/ghpvc/?username=aakshaj&style=for-the-badge&color=0e75b6)
 
 </div>
